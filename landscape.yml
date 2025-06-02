@@ -83,14 +83,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/google
           - item:
-            name: Huawei Technologies Co., Ltd (member)
-            homepage_url: https://huawei.com/
-            logo: huawei_technologies_co.svg
-            description: Huawei is a global provider of information and communications technology (ICT) infrastructure and smart devices. Huawei is headquartered in Shenzhen, China.
-            crunchbase: https://www.crunchbase.com/organization/huawei
-            twitter: https://twitter.com/Huawei
+            name: Infineon Technologies AG (member)
+            homepage_url: https://infineon.com/
+            logo: infineon_technologies_ag.svg
+            description: Infineon Technologies AG is a German semiconductor manufacturer founded in 1999, when the semiconductor operations of the parent company Siemens AG were spun
+              off.
+            crunchbase: https://www.crunchbase.com/organization/infineon
+            twitter: https://twitter.com/Infineon
             extra:
-              linkedin_url: https://www.linkedin.com/company/huawei
+              linkedin_url: https://www.linkedin.com/company/infineon-technologies
           - item:
             name: Institute of Computing Technology (member)
             homepage_url: https://ict.ac.cn/
@@ -248,10 +249,8 @@ landscape:
             description: Ventana is the RISC-V Performance leader, delivering platforms, chips and IP for groundbreaking solutions across data center, automotive, client, and AI markets.
               Our core team includes the pioneers behind the first 64-bit Arm server processor, the X-Gene by Applied Micro. With this proven expertise, we are redefining high-performance
               computing with the RISC-V architecture.
+            crunchbase: https://www.crunchbase.com/organization/ventana-micro-systems
             twitter: https://twitter.com/VentanaMicro
-            organization:
-              name: Ventana Micro Systems
-              linkedin: https://www.linkedin.com/company/ventana-micro-systems
             extra:
               linkedin_url: https://www.linkedin.com/company/ventana-micro-systems
       - subcategory:
@@ -523,16 +522,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/castcores
           - item:
-            name: Centre for Development of Advanced Computing (member)
-            homepage_url: https://cdac.in/
-            logo: centre_for_development_of_advanced_computing.svg
-            description: Centre for Development of Advanced Computing (C-DAC) is the premier R&D organization of the Ministry of Electronics and Information Technology (MeitY) for carrying
-              out R&D in IT, Electronics and associated areas.
-            crunchbase: https://www.crunchbase.com/organization/centre-for-development-of-advanced-computing
-            twitter: https://twitter.com/cdacindia
-            extra:
-              linkedin_url: https://www.linkedin.com/company/cdac
-          - item:
             name: CEVA, Inc. (member)
             homepage_url: https://ceva-dsp.com/
             logo: ceva_inc.svg
@@ -542,6 +531,16 @@ landscape:
             twitter: https://twitter.com/CEVADSP
             extra:
               linkedin_url: https://www.linkedin.com/company/ceva
+          - item:
+            name: Chelpis Co., Ltd. (member)
+            homepage_url: https://chelpis.com/
+            logo: chelpis_co_ltd.svg
+            description: A Cloud security company which provides authentication and connectivity security.
+            organization:
+              name: Chelpis Co., Ltd.
+              linkedin: https://www.linkedin.com/company/chelpis
+            extra:
+              linkedin_url: https://www.linkedin.com/company/chelpis
           - item:
             name: Chengdu Qunxin Microelectronics Technology Co., Ltd. (member)
             homepage_url: https://masscore.cn/
@@ -765,6 +764,12 @@ landscape:
             organization:
               name: ETAS GmbH
           - item:
+            name: EVAS Intelligence Technology Co.,Ltd. (member)
+            homepage_url: https://evas.ai/
+            logo: evas_intelligence_technology_co_ltd.svg
+            organization:
+              name: EVAS Intelligence Technology Co.,Ltd.
+          - item:
             name: fdmtek (member)
             homepage_url: https://fdmtek.com/
             logo: fdmtek.svg
@@ -782,14 +787,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/flowcomputing
           - item:
-            name: Fraunhofer Gesellschaft IIS (member)
-            homepage_url: https://iis.fraunhofer.de/
-            logo: fraunhofer_gesellschaft_iis.svg
+            name: Fraunhofer Gesellschaft (member)
+            homepage_url: https://fraunhofer.de/
+            logo: fraunhofer_gesellschaft.svg
             description: |-
-              Attn: Norbert Schuhmann
-              Munich, Germany c/o Fraunhofer IIS
-
-              --- Merged Data:
+              Attn: 
+              Norbert Schuhmann, Erlangen, Germany c/o Fraunhofer IIS
+              Alexander Noack, Dresden, Germany c/o Fraunhofer IPMS
 
               The Fraunhofer Society is a German research organization with 72 institutes spread throughout Germany, each focusing on different fields of applied science.
             crunchbase: https://www.crunchbase.com/organization/fraunhofer-gesellschaft
@@ -969,16 +973,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/infinecs
           - item:
-            name: Infineon Technologies AG (member)
-            homepage_url: https://infineon.com/
-            logo: infineon_technologies_ag.svg
-            description: Infineon Technologies AG is a German semiconductor manufacturer founded in 1999, when the semiconductor operations of the parent company Siemens AG were spun
-              off.
-            crunchbase: https://www.crunchbase.com/organization/infineon
-            twitter: https://twitter.com/Infineon
-            extra:
-              linkedin_url: https://www.linkedin.com/company/infineon-technologies
-          - item:
             name: Ingenic Semiconductor (member)
             homepage_url: https://ingenic.com.cn/
             logo: ingenic_semiconductor.svg
@@ -1020,6 +1014,17 @@ landscape:
             twitter: https://twitter.com/IBM
             extra:
               linkedin_url: https://www.linkedin.com/company/ibm
+          - item:
+            name: iSOFT INFRASTRUCTURE SOFTWARE CO.,LTD. (member)
+            homepage_url: https://i-soft.com.cn/
+            logo: isoft_infrastructure_software_co_ltd.svg
+            description: i-soft is a software development company that is a wholly owned subsidiary of China Electronics Technology (Group) Corporation, China's leading state-owned group
+              on electronics research and development.
+            organization:
+              name: iSOFT INFRASTRUCTURE SOFTWARE CO.,LTD.
+              linkedin: https://www.linkedin.com/company/i-soft-infrstructure-software-co.-ltd
+            extra:
+              linkedin_url: https://www.linkedin.com/company/i-soft-infrstructure-software-co.-ltd
           - item:
             name: Jump Operations, LLC (member)
             homepage_url: https://jumptrading.com/
@@ -1098,6 +1103,9 @@ landscape:
             name: Kubuds Technology Co. (member)
             homepage_url: https://kubuds.io/
             logo: kubuds_technology_co.svg
+            description: Kubuds is a technical team focusing on foundational software and open chip ecology. We have accumulated more than 10 years of experience in foundational software
+              fields such as compilers, virtual machines and simulators, and have deep participation and influence on RISC-V open architecture and its open source ecology. The company
+              is committed to providing solid support for enterprises and teams engaged in chip research and development and information product innovation.
             organization:
               name: Kubuds Technology Co.
           - item:
@@ -1305,6 +1313,17 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/morse-micro
           - item:
+            name: MOVE.B (member)
+            homepage_url: https://move-b.com/
+            logo: move.svg
+            description: MOVE.B is a leading expert in processors and interfaces, offering top-notch training and design services for developers of System on Chip and embedded electronic
+              systems. With over 25 years of experience in the Semiconductor industry, MOVE.B provides s...
+            organization:
+              name: MOVE.B
+              linkedin: https://www.linkedin.com/company/moveb
+            extra:
+              linkedin_url: https://www.linkedin.com/company/moveb
+          - item:
             name: Nanjing Qinheng Microelectronics Co., Ltd (member)
             homepage_url: https://wch.cn/
             logo: nanjing_qinheng_microelectronics_co.svg
@@ -1405,6 +1424,12 @@ landscape:
             twitter: https://twitter.com/NXP
             extra:
               linkedin_url: https://www.linkedin.com/company/nxp-semiconductors
+          - item:
+            name: OcNest AI (member)
+            homepage_url: https://ocnest.ai/
+            logo: ocnest_ai.svg
+            organization:
+              name: OcNest AI
           - item:
             name: OTSL, Inc (member)
             homepage_url: https://otsl.jp/
@@ -2869,6 +2894,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/haskell-foundation-inc
           - item:
+            name: Hefei University of Technology (member)
+            homepage_url: https://hfut.edu.cn/
+            logo: hefei_university_of_technology.svg
+            description: Hefei University of Technology is a leading national university focused on talent cultivation, science advancement, and social development with a motto of virtue,
+              knowledge, truth, and innovation.
+            organization:
+              name: Hefei University of Technology
+          - item:
             name: Helpful Engineering (member)
             homepage_url: https://helpfulengineering.org/
             logo: helpful_engineering.svg
@@ -3418,8 +3451,7 @@ landscape:
               Through events like the Rancher Rodeo 2024 and the Industrial IT Forum, we bring together developers, IT professionals, and industry leaders to explore the latest in digital transformation and open-source solutions. These gatherings serve as vibrant hubs of learning and innovation, reinforcing our commitment to advancing Kazakhstan's open-source movement. 
 
               Join us in our journey to establish Kazakhstan as a hub for open-source excellence, fostering a digital ecosystem where innovation thrives and technology transcends boundaries.
-            organization:
-              name: Qazaq Open Source Initiative
+            crunchbase: https://www.crunchbase.com/organization/qazaq-open-source-initiative
           - item:
             name: QuantumShift (member)
             homepage_url: https://quantumshift.in/
@@ -3947,6 +3979,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/politehnica-university-of-timisoara
           - item:
+            name: Universiti Kuala Lumpur (member)
+            homepage_url: https://unikl.edu.my/
+            logo: universiti_kuala_lumpur.svg
+            description: Universiti Kuala Lumpur (UniKL) is a leading entrepreneurial technical university in Malaysia that offers 139 programmes in various foundation, undergraduate,
+              and postgraduate studies. UniKL's education model is designed to produce graduates who are gl...
+            crunchbase: https://www.crunchbase.com/organization/university-of-kuala-lumpur
+            extra:
+              linkedin_url: https://www.linkedin.com/company/universiti-kuala-lumpur-unikl
+          - item:
             name: University arts and science college Kakatiya university (member)
             homepage_url: https://kakatiya.ac.in/
             logo: university_arts_and_science_college_kakatiya_university.svg
@@ -4251,6 +4292,34 @@ landscape:
               linkedin: https://www.linkedin.com/company/the-zephyr-project
             extra:
               linkedin_url: https://www.linkedin.com/company/the-zephyr-project
+          - item:
+            name: Zhejiang University (member)
+            homepage_url: https://zju.edu.cn/
+            logo: zhejiang_university.svg
+            description: |-
+              Software Engineering Lab of Zhejiang University
+
+
+
+              TEL: (+86) 15157180183
+
+              Cloud Team
+
+              VLIS Lab
+
+              Zhejiang University 
+
+
+
+              38 Zheda Rd, Xihu, Hangzhou, Zhejiang, China, 310027
+
+              --- Merged Data:
+
+              Zhejiang University is an elite C9 League university located in Hangzhou, the capital of Zhejiang province.
+            crunchbase: https://www.crunchbase.com/organization/zhejiang-university
+            twitter: https://twitter.com/ZJU_China
+            extra:
+              linkedin_url: https://www.linkedin.com/company/zhejiang-university
   - category:
     name: Implementations
     subcategories:
