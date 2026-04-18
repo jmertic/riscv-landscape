@@ -1304,7 +1304,14 @@ landscape:
             name: Shanghai StarFive Semiconductor Co., Ltd. (member)
             homepage_url: https://starfivetech.com/
             logo: shanghai_starfive_semiconductor_co_ltd.svg
-            description: StarFive Technology Co., Ltd. (StarFive) was established in 2018. It is a leader in China's RISC-V technology and ecology. It has a complete silicon-verified RISC-V CPU IP product line and platform-based software and hardware full-stack chips. solution. Products are widely used in smart home appliances, smart monitoring, industrial robots, traffic management, smart logistics, wearable devices, solid-state storage, network communications, edge computing and other field.
+            description: |-
+              StarFive is a world-leading provider of RISC-V chips and solutions. Headquartered in Shanghai, it.has established branches in Hong Kong, Penang, Singapore and other regions, serving customersworldwide. StarFive has built a comprehensive product portfolio covering IP, chips, and solutions:
+              1) IP: The company owns the Dubhe series RISC-V CPU IP and StarNoC series cache-coherent NoC IP. Both are silicon-proven, providing a solid foundation for high-performance SoC designs. 
+              2) Chips: Products cover cloud, edge, and endpoint applications across all scenarios, including JH-B100 for data center management, JH-7110 for high-performance edge computing, and Towngas Chip for AIoT. 
+              3) Solutions: Leveraging in-house chips, StarFive provides mature and reliable RISC-V development boards and end-to-end solutions to accelerate time-to-market.
+
+              In addition, StarFive operates one of the world’s most active RISC-V developer communities—RVspace, where global developers gather to share knowledge and wisdom, collectively
+              accelerating RISC-V innovation.
             twitter: https://twitter.com/StarFiveTech
             organization:
               name: Shanghai StarFive Semiconductor Co., Ltd.
