@@ -913,7 +913,7 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/nec
           - item:
-            name: NEXTSilicon (member)
+            name: NextSilicon (member)
             homepage_url: https://nextsilicon.com/
             logo: nextsilicon.svg
             description: Stay tuned...
@@ -1438,6 +1438,10 @@ landscape:
             logo: emproof.svg
             description: Emproof is a company that provides agile, robust, and cost-effective security and IP integrity for all embedded systems. Their solution, Emproof Nyx, prevents reverse engineering, securing valuable intellectual property and protecting against exploitat...
           - item:
+            name: ERGTECH Research GmbH (member)
+            homepage_url: https://ergtech.ch/
+            logo: ergtech_research_gmbh.svg
+          - item:
             name: Flow Computing (member)
             homepage_url: https://flow-computing.com/
             logo: flow_computing.svg
@@ -1645,6 +1649,10 @@ landscape:
             twitter: https://twitter.com/SUSTechSZ
             extra:
               linkedin_url: https://www.linkedin.com/company/sustechsz
+          - item:
+            name: Coreforge Foundation (member)
+            homepage_url: https://kuznia-rdzeni.org/
+            logo: coreforge_foundation.svg
           - item:
             name: CSEM SA (member)
             homepage_url: https://csem.ch/
@@ -2317,6 +2325,13 @@ landscape:
             homepage_url: https://usm.cl/
             logo: universidad_tecnica_federico_santa_maria.svg
             description: Universidad Técnica Federico Santa María is a leading institution in engineering in Chile and the world, founded by visionary entrepreneur Federico Santa María Carrera. The university offers a wide range of academic programs, research opportunities, an...
+          - item:
+            name: Università degli Studi dell'Aquila (member)
+            homepage_url: https://univaq.it/
+            logo: universita_degli_studi_dell_aquila.svg
+            description: University of L'Aquila is a public teaching and research institution, established in 1952 and located in L'Aquila, administrative centre of the Abruzzo Region (Italy). It offers a full range of academic programmes including biotechnologies, sciences, economics, engineering, education, humanities, medicine, psychology, and sport sciences. With 7 departments, the University of L'Aquila offers its over 19,000 enrolled students 69 degree courses (divided between first and second level degrees), 9 research doctorate programmes, specialisation schools, specializing-master courses and vocational courses. Many members of its distinguished faculty of about 600 professors and researchers have received international recognition and are considered leaders in their fields of research.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/university-of-l%27aquila
           - item:
             name: Università degli Studi di Siena (member)
             homepage_url: https://unisi.it/
