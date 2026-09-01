@@ -53,6 +53,11 @@ landscape:
             logo: beijing_institute_of_open_source_chip.svg
             description: .
           - item:
+            name: GlobalFoundries Inc. (member)
+            homepage_url: https://gf.com/
+            logo: globalfoundries_inc.svg
+            description: GlobalFoundries is a nationally recognized leader in the store fixture and retail interiors industry, specializing in high-quality architectural millwork and innovative design solutions for prestigious retailers.
+          - item:
             name: Google LLC (member)
             homepage_url: https://google.com/
             logo: google_llc.svg
@@ -294,12 +299,6 @@ landscape:
             logo: beijing_haawking_technology_co_ltd.svg
             description: HAAWKING is a company engaged in R&D of industrial control microprocessor and special chip for machine vision & graphic image processing.
           - item:
-            name: BEIJING SMARTCHIP MICROELECTRONICS TECHNOLOGY COMPANY LIMITED (member)
-            homepage_url: https://sgitg.sgcc.com.cn/
-            logo: beijing_smartchip_microelectronics_technology_company_limited.svg
-            description: SGCC was founded on Dec. 29th, 2002 as a pilot state-owned corporation by the State Council. As a backbone state-owned enterprise that may
-            crunchbase: https://www.crunchbase.com/organization/state-grid-corporation-of-china
-          - item:
             name: Beijing Vcore Technology Co.,Ltd. (member)
             homepage_url: https://rvcore.com/
             logo: beijing_vcore_technology_co_ltd.svg
@@ -409,11 +408,6 @@ landscape:
             description: A Cloud security company which provides authentication and connectivity security.
             extra:
               linkedin_url: https://www.linkedin.com/company/chelpis
-          - item:
-            name: Chipown (member)
-            homepage_url: https://chipown.com.cn/
-            logo: chipown.svg
-            description: Chipown is a high-tech company specializing in analog and mixed-signal IC design, focusing on green power management and driver chips to deliver efficient, low-power, and quality stable products with comprehensive application solutions and technical su...
           - item:
             name: CloudBEAR (member)
             homepage_url: https://cloudbear.ru/
@@ -550,10 +544,6 @@ landscape:
             twitter: https://twitter.com/expressvpn
             extra:
               linkedin_url: https://www.linkedin.com/company/expressvpn
-          - item:
-            name: fdmtek (member)
-            homepage_url: https://fdmtek.com/
-            logo: fdmtek.svg
           - item:
             name: Fraunhofer Gesellschaft (member)
             homepage_url: https://fraunhofer.de/
@@ -825,6 +815,11 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/17763
           - item:
+            name: Megatech AI (member)
+            homepage_url: https://megatechai.co.za/
+            logo: megatech_ai.svg
+            description: MegaTech AI is an AI inspired Innovation Consultancy that focuses on AI engineering, Programming and IT Engineering. MegaTech AI (Artificial Intelligence) is an Afro centric Information Communications Technology company (ICT) and an Internet Service Pr...
+          - item:
             name: Meta Platforms, Inc. (member)
             homepage_url: https://meta.com/
             logo: meta_platforms_inc.svg
@@ -900,10 +895,6 @@ landscape:
             logo: nanjing_qinheng_microelectronics_co.svg
             description: Nanjing Qinheng Microelectronics Co., Ltd. founded in 2004, a RF and high-speed digital-analog mixed Integrated Circuit design company focusing on connectivity technology and MCU core research.
           - item:
-            name: Nanjing YingQi Intelligent Technology Co., Ltd. (member)
-            homepage_url: https://inchitech.com/
-            logo: nanjing_yingqi_intelligent_technology_co_ltd.svg
-          - item:
             name: NEC Corporation (member)
             homepage_url: https://nec.com/
             logo: nec_corporation.svg
@@ -913,7 +904,7 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/nec
           - item:
-            name: NEXTSilicon (member)
+            name: NextSilicon (member)
             homepage_url: https://nextsilicon.com/
             logo: nextsilicon.svg
             description: Stay tuned...
@@ -1045,8 +1036,8 @@ landscape:
             name: RTX (member)
             homepage_url: https://rtx.com/
             logo: rtx.svg
-            description: Raytheon Technologies Corporation is a multinational conglomerate headquartered in Waltham, Massachusetts United States.
-            crunchbase: https://www.crunchbase.com/organization/raytheon
+            description: RTX Corporation is a multinational conglomerate headquartered in Arlington, Virginia United States.
+            crunchbase: https://www.crunchbase.com/organization/rtx-corp
             twitter: https://twitter.com/RaytheonTech
             extra:
               linkedin_url: https://www.linkedin.com/company/raytheontechnologies
@@ -1191,11 +1182,6 @@ landscape:
             logo: sony_semiconductor_solutions_corporation.svg
             description: Sony Semiconductor Manufacturing Corporation designs, develops, manufactures, and markets semiconductor components.
             twitter: https://twitter.com/SonySemicon_JP
-          - item:
-            name: Sophgo Technologies Ltd. (member)
-            homepage_url: https://sophgo.com/
-            logo: sophgo_technologies_ltd.svg
-            description: Sophgo is a company that specializes in the development of artificial intelligence chips and products, with a focus on deep learning and tensor acceleration computing.
           - item:
             name: SoundAI Technology Co., Ltd. (member)
             homepage_url: https://soundai.com/
@@ -1371,10 +1357,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/vrull
           - item:
-            name: WingSemi (member)
-            homepage_url: https://wingsemitech.com/
-            logo: wingsemi.svg
-          - item:
             name: WITTENSTEIN high integrity systems (member)
             homepage_url: https://highintegritysystems.com/
             logo: wittenstein_high_integrity_systems.svg
@@ -1386,14 +1368,6 @@ landscape:
             name: XinSheng Technology Co., LTD (member)
             homepage_url: https://xinshengcmiot.cn/
             logo: xinsheng_technology_co.svg
-          - item:
-            name: XMOS (member)
-            homepage_url: https://xmos.ai/
-            logo: xmos.svg
-            description: Our voice interface solutions provide state of the art sound processing at a compelling price. Perfect for developers who want to integrate voice for the smart environment.
-            crunchbase: https://www.crunchbase.com/organization/xmos
-            extra:
-              linkedin_url: https://www.linkedin.com/company/xmos
           - item:
             name: ZARAM TECHNOLOGY INC (member)
             homepage_url: https://zaram.com/
@@ -1438,12 +1412,25 @@ landscape:
             logo: emproof.svg
             description: Emproof is a company that provides agile, robust, and cost-effective security and IP integrity for all embedded systems. Their solution, Emproof Nyx, prevents reverse engineering, securing valuable intellectual property and protecting against exploitat...
           - item:
+            name: ERGTECH Research GmbH (member)
+            homepage_url: https://ergtech.ch/
+            logo: ergtech_research_gmbh.svg
+          - item:
+            name: Ferrite Engineering (member)
+            homepage_url: https://ferriteengineering.com/
+            logo: ferrite_engineering.svg
+          - item:
             name: Flow Computing (member)
             homepage_url: https://flow-computing.com/
             logo: flow_computing.svg
             description: Flow Computing offers revolutionary Processor IP with 100x better CPU processing performance and full backwards compatibility through their unique Parallel Processing Unit, ensuring significant performance boosts and improved software development produ...
             extra:
               linkedin_url: https://www.linkedin.com/company/flowcomputing
+          - item:
+            name: InfiniNode Technologies (member)
+            homepage_url: https://infininode.com/
+            logo: infininode_technologies.svg
+            description: InfiniNode Technologies specializes in providing high-performance, energy-efficient, and scalable system IP solutions designed to enhance the capabilities of next-generation System on Chip (SoC) designs, addressing the challenges of increasing compute ...
           - item:
             name: Keysom (member)
             homepage_url: https://keysom.io/
@@ -1646,6 +1633,10 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/sustechsz
           - item:
+            name: Coreforge Foundation (member)
+            homepage_url: https://kuznia-rdzeni.org/
+            logo: coreforge_foundation.svg
+          - item:
             name: CSEM SA (member)
             homepage_url: https://csem.ch/
             logo: csem_sa.svg
@@ -1739,6 +1730,13 @@ landscape:
             description: Founded in 1855, Swiss Federal Institute of Technology is a science, technology, mathematics, engineering, and management university in Zurich, Switzerland.
             crunchbase: https://www.crunchbase.com/organization/eidgen-ssische-technische-hochschule-z-rich
             twitter: https://twitter.com/ETH
+          - item:
+            name: EURECOM (member)
+            homepage_url: https://eurecom.fr/
+            logo: eurecom.svg
+            description: EURECOM is a graduate school and research center specializing in digital science, focusing on the development and dissemination of open-source software for 4G and 5G communication technologies.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/eurecom
           - item:
             name: European Space Agency (member)
             homepage_url: https://esa.int/
@@ -2317,6 +2315,13 @@ landscape:
             homepage_url: https://usm.cl/
             logo: universidad_tecnica_federico_santa_maria.svg
             description: Universidad Técnica Federico Santa María is a leading institution in engineering in Chile and the world, founded by visionary entrepreneur Federico Santa María Carrera. The university offers a wide range of academic programs, research opportunities, an...
+          - item:
+            name: Università degli Studi dell'Aquila (member)
+            homepage_url: https://univaq.it/
+            logo: universita_degli_studi_dell_aquila.svg
+            description: University of L'Aquila is a public teaching and research institution, established in 1952 and located in L'Aquila, administrative centre of the Abruzzo Region (Italy). It offers a full range of academic programmes including biotechnologies, sciences, economics, engineering, education, humanities, medicine, psychology, and sport sciences. With 7 departments, the University of L'Aquila offers its over 19,000 enrolled students 69 degree courses (divided between first and second level degrees), 9 research doctorate programmes, specialisation schools, specializing-master courses and vocational courses. Many members of its distinguished faculty of about 600 professors and researchers have received international recognition and are considered leaders in their fields of research.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/university-of-l%27aquila
           - item:
             name: Università degli Studi di Siena (member)
             homepage_url: https://unisi.it/
